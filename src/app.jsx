@@ -7,7 +7,7 @@ import MyTabs from './my-tabs.jsx';
 const AppBarExampleIcon = () => (
   <AppBar
     title="My App"
-    iconClassNameRight="muidocs-icon-navigation-expand-more"
+    
   />
 );
 
